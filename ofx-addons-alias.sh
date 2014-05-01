@@ -61,5 +61,3 @@ echo "\n\n\n"
 echo "･゜･*:.｡..:* created "$num_ofx_addons" aliases ･'｡. .｡.:*･゜･*"
 echo "･゜･*:.｡..:* skipped "$num_skipped_addons" addons ･'｡. .｡.:*･゜･*"
 echo "\n\n"
-
-
