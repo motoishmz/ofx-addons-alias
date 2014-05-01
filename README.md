@@ -1,7 +1,7 @@
 ofx-addons-alias is a shell script which creates aliases to ofxaddons without "ofx" prefix.
 ================
 
-## I don't wanna type "ofx" anymore while I'm looking for an addon.....
+I don't want to type "ofx" anymore while I'm looking for an addon........
 
 ![image](https://31.media.tumblr.com/d7f273534496832d4d468c54425da71a/tumblr_n0mvh0ktgU1s2up8jo1_1280.png)
 
