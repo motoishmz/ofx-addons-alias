@@ -1,15 +1,16 @@
 ofx-addons-alias is a shell script which creates aliases to ofxaddons without "ofx" prefix.
 ================
 
-I don't want to type "ofx" anymore while I'm looking for an addon........
+I don't want to type "ofx" anymore while I'm looking for an addon........ I want to type just "cv" when I look for ofxCv, instead of typing ofxCv.
 
-![image](https://31.media.tumblr.com/d7f273534496832d4d468c54425da71a/tumblr_n0mvh0ktgU1s2up8jo1_1280.png)
+ofx-addons-alias.sh creates aliases to every addon in your `{OF-ROOT}/addons` directory. Eventually your addons-alias directory will be like this:
 
-I want to type just "cv" when I look for ofxCv, instead of typing ofxCv.
-ofx-addons-alias.sh creates aliases to every addon in your `{OF-ROOT}/addons` directory. eventually your addons-alias directory will be like this:
+![image](https://33.media.tumblr.com/0d327666f4dff2dec458eff4ab642e39/tumblr_ndfcmjKUNO1s2up8jo1_1280.gif)
 
+
+<!--
 ![image](https://24.media.tumblr.com/f6c29d7574ae9bf16dc266342767bef4/tumblr_n0mvh0ktgU1s2up8jo2_r2_1280.png)
-
+-->
 
 ## installation
 1. unzip or clone this repository to your `{OF_ROOT}` directory
